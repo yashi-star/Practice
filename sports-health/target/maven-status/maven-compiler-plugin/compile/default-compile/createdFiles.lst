@@ -1,0 +1,7 @@
+com\hackerrank\whc\model\Customer.class
+com\hackerrank\whc\model\Coach.class
+com\hackerrank\whc\repository\CoachRepository.class
+com\hackerrank\whc\controller\CoachController.class
+com\hackerrank\whc\Application.class
+com\hackerrank\whc\controller\CustomerController.class
+com\hackerrank\whc\repository\CustomerRepository.class
